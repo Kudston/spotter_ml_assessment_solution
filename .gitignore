@@ -1,0 +1,4 @@
+*.csv
+*.json
+data/*
+scorer_results/*
